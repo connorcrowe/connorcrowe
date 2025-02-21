@@ -1,14 +1,12 @@
-# 🌎 Connor - Data Background, Product Focus, Geospatial Passion
-Hi, I'm Connor Crowe--- a data-driven product manager with a background in Computer Engineering and a passion for machine learning, geospatial analysis, and urban planning. I've worked building products in startups and mid-sized organisations in deep tech, health-tech and education-tech. 
+# 🌎 Data Background, Product Focus, Geospatial Passion
+Hi, I'm Connor--- a data-driven product manager with a background in Computer Engineering and a passion for machine learning, geospatial analysis, and urban planning. I've built products in startups and mid-sized organisations in deep tech, health-tech and education-tech. 
 
-I am currently on a journey to grow and transition into the geospatial industry to leverage my skills towards the problems that I am most personally passionate about - climate change, urbanism, & transportation planning
+I am on a journey to transition into the geospatial industry to leverage my skills towards the problems that I'm most personally passionate about - *climate change, urbanism, & transportation planning*.
 
 ## Featured Projects
 ### ✈️ Land Use Land Cover Neural Network Classification from Aerial Data
-***Technologies:** CNN, U-net, Tensorflow/Keras, Map Digitization*
-
 Trained a Convolutional Neural Network (CNN) with U-net architecture on aerial imagery to classify land use in downtown Toronto.
-
+***Technologies:** CNN, U-net, Tensorflow/Keras, Map Digitization*
 [🔗 GitHub Repo](https://github.com/connorcrowe/to-lulc-aiml)
 
 ### 🌆 Urban Heat Island & Vulnerability Analysis of Toronto from Satellite Imagery
