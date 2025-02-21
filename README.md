@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi, I'm Connor 👋
 
-<!--
-**connorcrowe/connorcrowe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Current Project: Land Use Land Cover Classification & Vector Map Creation with U-Net Neural Networks
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Previous Projects
+#### Urban Heat Island & Vulnerability Analysis of Toronto from Satellite Imagery
+[Full Story on StoryMaps!](https://storymaps.com/stories/ac363812a8e146f6b4d61aea3fd55a83)
+%[https://storymaps.com/stories/ac363812a8e146f6b4d61aea3fd55a83] 
+
+
+#### Geospatial Analysis of Toronto Bike Share Data
+[Full Story on StoryMaps!](https://storymaps.com/stories/977d7a48e8104952b3843b25ddda4ec3)
+
+### Experience & Skills
+
+### Let's Connect
