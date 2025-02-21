@@ -1,7 +1,7 @@
 # 🌎 Data Background, Product Focus, Geospatial Passion
-Hi, I'm Connor--- a data-driven product manager with a background in Computer Engineering and a passion for machine learning, geospatial analysis, and urban planning. I've built products in startups and mid-sized organisations in deep tech, health-tech and education-tech. 
+Hi, I'm Connor--- a data-driven product manager with a background in computer engineering & data science and a passion for geospatial problems. I've built products in deep tech, health-tech and education-tech. 
 
-I am on a journey to transition into the geospatial industry to leverage my skills towards the problems that I'm most personally passionate about - *climate change, urbanism, & transportation planning*.
+I am on a journey to transition into the geospatial industry to leverage my skills towards the problems that I'm most personally passionate about - *climate change, urban planning, & transportation planning*.
 
 ## Featured Projects
 ### ✈️ Land Use Land Cover Neural Network Classification from Aerial Data
@@ -35,7 +35,7 @@ Analyzed Toronto's bike share data (2016-2024) using spatial SQL and geospatial 
 
 ## Let's Connect
 *I'm always open to discussions about geospatial data, urban analytics, and climate tech.*  
-- [LinkedIn](https://www.linkedin.com/in/connorthecrowe/)
+[💼 LinkedIn](https://www.linkedin.com/in/connorthecrowe/)
 
 <!--### What I'm Reading
 - **Geospatial & Urban Planning:** *The Death and Life of Great American Cities* by Jane Jacobs, *Confessions of a Recovering Engineer* by Charles Marohn
