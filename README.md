@@ -4,7 +4,7 @@ Hi, I'm Connor--- a data-driven product manager with a background in computer en
 I am on a journey to transition into the geospatial industry to leverage my skills towards the problems that I'm most personally passionate about - *climate change, urban planning, & transportation planning*.
 
 ## Featured Projects
-### ✈️ Land Use Land Cover Neural Network Classification from Aerial Data
+### 🛩️ Land Use Land Cover Neural Network Classification from Aerial Data
 Trained a Convolutional Neural Network (CNN) with U-net architecture on aerial imagery to classify land use in downtown Toronto.
 ***Technologies:** CNN, U-net, Tensorflow/Keras, Map Digitization*
 
