@@ -6,7 +6,7 @@ I am on a journey to transition into the geospatial industry to leverage my skil
 ## Featured Projects
 ### 🗺️ High-Resolution Automated LULC Classification at Scale in Toronto
 Using trained LULC U-net classifier to autoamtically predict land use land cover of the entire City of Toronto aerial at 2 px per meter. 
-***Technologies:**gdal, leaflet, Vite, Tensorflow/Keras, Python*
+***Technologies:** gdal, leaflet, Vite, Tensorflow/Keras, Python*
 
 [🗺️ Live Demo](https://connorcrowe.github.io/to-lulc-scale/) | [🔗 GitHub Repo](https://github.com/connorcrowe/to-lulc-scale)
 
