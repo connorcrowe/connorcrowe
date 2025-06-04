@@ -1,9 +1,14 @@
 # 🌎 Data Background, Product Focus, Geospatial Passion
 Hi, I'm Connor--- a data-driven product manager with a background in computer engineering & data science and a passion for geospatial problems. I've built products in deep tech, health-tech and education-tech. 
 
-I am on a journey to transition into the geospatial industry to leverage my skills towards the problems that I'm most personally passionate about - *climate change, urban planning, & transportation planning*.
+I am on a journey in the geospatial industry to leverage my skills towards the problems that I'm most personally passionate about - *climate change, urban planning, & transportation planning*.
 
 ## Featured Projects
+### Current Project: A Product Managed Approach to Bicycle Network Prioritization
+Using geospatial analysis to help prioritize bike lanes, but documenting the entire product development lifecycle from problem definition to launch measurement. Come follow along with how a PM gets things done.
+
+[🔗 GitHub Repo](https://github.com/connorcrowe/to-bike-network-prioritization)
+
 ### 🗺️ High-Resolution Automated LULC Classification at Scale in Toronto
 Using trained LULC U-net classifier to autoamtically predict land use land cover of the entire City of Toronto aerial at 2 px per meter. 
 ***Technologies:** gdal, leaflet, Vite, Tensorflow/Keras, Python*
