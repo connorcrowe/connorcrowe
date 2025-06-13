@@ -3,7 +3,8 @@ Hi, I'm Connor--- a data-driven product manager with a background in computer en
 
 I am on a journey in the geospatial industry to leverage my skills towards the problems that I'm most personally passionate about - *climate change, urban developmnet, & transportation*.
 
-<!-- ## Featured Projects
+## Featured Projects
+ <!--
 ### 🚧 Current Project: A Product Managed Approach to Bicycle Network Prioritization
 Using geospatial analysis to help prioritize bike lanes, but documenting the entire product development lifecycle from problem definition to launch measurement. Come follow along with how a PM gets things done.
 
