@@ -26,13 +26,13 @@ Trained a Convolutional Neural Network (CNN) with U-net architecture on aerial i
 Mapped urban heat islands in Toronto using remote imagery and overlaid demographic data to highlight vulnerable communities.
 ***Technologies:** QGIS, GDAL, Raster Analysis, Remote Sensing, Landsat*
 
-[🗺️ Full Story on StoryMaps!](https://storymaps.com/stories/ac363812a8e146f6b4d61aea3fd55a83) | [🔗 GitHub Repo](https://github.com/connorcrowe/to-urban-heat-island)
+[🗺️ Full Story on StoryMaps!](https://storymaps.arcgis.com/stories/e3f84768c41e44d7b756611eabebf073) | [🔗 GitHub Repo](https://github.com/connorcrowe/to-urban-heat-island)
 
 ### 🚲 Geospatial Analysis of Toronto Bike Share Data
 Analyzed Toronto's bike share data (2016-2024) using spatial SQL and geospatial visualization to assess impact of changes in infrastructure.
 ***Technologies:** PostGIS, QGIS, Python, PyQGIS*
 
-[🗺️ Full Story on StoryMaps!](https://storymaps.com/stories/977d7a48e8104952b3843b25ddda4ec3) | [🔗 GitHub Repo](https://github.com/connorcrowe/to-bike-analysis)
+[🗺️ Full Story on StoryMaps!](https://storymaps.arcgis.com/stories/4fddcc01ca994ec2b854e4356dba56f2) | [🔗 GitHub Repo](https://github.com/connorcrowe/to-bike-analysis)
 
 ## Skills, Tools, Learning
 - **Product Management**
