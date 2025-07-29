@@ -10,6 +10,10 @@ Using geospatial analysis to help prioritize bike lanes, but documenting the ent
 
 [🔗 GitHub Repo](https://github.com/connorcrowe/to-bike-network-prioritization) -->
 
+### 🚧 Current WIP: Geoff, the Spatial-AI Map-Maker
+GEOFF (GEOspatial Fact Finder) aims to turn natural language prompts like "how many bike lanes are near school zones?", turn them into Spatial SQL, and display the results on a web map. Project progressing ~
+[🔗 GitHub Repo](https://github.com/connorcrowe/geoff) 
+
 ### 🗺️ High-Resolution Automated LULC Classification at Scale in Toronto
 Using trained LULC U-net classifier to autoamtically predict land use land cover of the entire City of Toronto aerial at 2 px per meter. 
 ***Technologies:** gdal, leaflet, Vite, Tensorflow/Keras, Python*
