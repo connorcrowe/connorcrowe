@@ -1,7 +1,7 @@
 # 🌎 Data Background, Product Focus, Geospatial Passion
 Hi, I'm Connor--- a data-driven product manager with a background in computer engineering & data science and a passion for geospatial problems. I've built products in deep tech, health-tech and education-tech. 
 
-I am on a journey in the geospatial industry to leverage my skills towards the problems that I'm most personally passionate about - *climate change, urban developmnet, & transportation*.
+I am on a journey in the geospatial industry to leverage my skills towards the problems that I'm most personally passionate about - *climate change, urban development, & transportation*.
 
 ## Featured Projects
  <!--
