@@ -38,17 +38,6 @@ Analyzed Toronto's bike share data (2016-2024) using spatial SQL and geospatial 
 
 [🗺️ Full Story on StoryMaps!](https://storymaps.arcgis.com/stories/4fddcc01ca994ec2b854e4356dba56f2) | [🔗 GitHub Repo](https://github.com/connorcrowe/to-bike-analysis)
 
-## Skills, Tools, Learning
-- **Product Management**
-    - Prioritization, organisation, storytelling & communication
-    - Agile, Jira, Git, etc.
-- **Data & Programming**
-    - Python, Data, Machine Learning (Pandas, Geopandas, PyQGIS, Tensorflow/Keras, scikit-learn)
-    - SQL (MySQL, PostGIS, BigQuery)
-- **Courses**
-    - Fundamentals of Remote Sensing and Geospatial Analysis, Udemy, Matt Thompson
-    - Machine Learning in GIS: Theory and Practice, Udemy, Kate Alison
-
 ## Let's Connect
 *I'm always open to discussions about geospatial data, urban analytics, and climate tech.*  
 [💼 LinkedIn](https://www.linkedin.com/in/connorthecrowe/)
