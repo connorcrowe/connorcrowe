@@ -40,7 +40,7 @@ Analyzed Toronto's bike share data (2016-2024) using spatial SQL and geospatial 
 
 ## Let's Connect
 *I'm always open to discussions about geospatial data, urban analytics, and climate tech.*  
-[💼 LinkedIn](https://www.linkedin.com/in/connorthecrowe/)
+[💼 LinkedIn](https://www.linkedin.com/in/croweconnor/)
 
 <!--### What I'm Reading
 - **Geospatial & Urban Planning:** *The Death and Life of Great American Cities* by Jane Jacobs, *Confessions of a Recovering Engineer* by Charles Marohn
