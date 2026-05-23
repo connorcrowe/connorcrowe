@@ -1,7 +1,5 @@
-# 🌎 Data Background, Product Focus, Geospatial Passion
-Hi, I'm Connor --- a data-driven product manager with a background in computer engineering & data science and a passion for geospatial problems. I've built products in deep tech, health-tech and education-tech. 
-
-<!-- I am on a journey in the geospatial industry to leverage my skills towards the problems that I'm most personally passionate about - *climate change, urban development, & transportation*. -->
+# 🌎 Data, Product, Geospatial
+Product Manager who likes getting hands-on with geospatial data.
 
 ## Featured Projects
  <!--
@@ -37,11 +35,3 @@ Analyzed Toronto's bike share data (2016-2024) using spatial SQL and geospatial 
 ***Technologies:** PostGIS, QGIS, Python, PyQGIS*
 
 [🗺️ Full Story on StoryMaps!](https://storymaps.arcgis.com/stories/4fddcc01ca994ec2b854e4356dba56f2) | [🔗 GitHub Repo](https://github.com/connorcrowe/to-bike-analysis)
-
-## Let's Connect
-*I'm always open to discussions about geospatial data, urban analytics, and climate tech.*  
-[💼 LinkedIn](https://www.linkedin.com/in/croweconnor/)
-
-<!--### What I'm Reading
-- **Geospatial & Urban Planning:** *The Death and Life of Great American Cities* by Jane Jacobs, *Confessions of a Recovering Engineer* by Charles Marohn
-- **Product Management:** *Inspired* by Marty Cagan, *Empowered* by Marty Cagan, *Disciplined Entrepreneurship* by Bill Aulet -->
